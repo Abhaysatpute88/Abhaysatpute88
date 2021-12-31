@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhaysatpute88
-- 👀 I’m interested in Machine learning, Web development and Data science
+- 👀 I’m interested in Machine learning, Web development.
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...web development
 - 📫 How to reach me ...abhaysatpute652@gmail.com
