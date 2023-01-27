@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Abhaysatpute88
-- 👀 I’m interested in Machine learning, Web development.
-- 🌱 I’m currently learning ...web development
-- 💞️ I’m looking to collaborate on ...web development
+- A passionate self-taught backend developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant     interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+- 👀 I’m interested in AI and Software engineering.
+- 💞️ I’m looking to collaborate on ...Web Development
 - 📫 How to reach me ...abhaysatpute652@gmail.com
 
 <!---
